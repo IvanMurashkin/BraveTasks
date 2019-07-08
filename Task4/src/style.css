@@ -1,0 +1,14 @@
+.country {
+    margin-top: 10px;
+    outline: none;
+    padding: 2px 5px;
+}
+
+.cities-table {
+    box-shadow: 0 0 24px #000;
+    margin-top: 15px;
+}
+
+.btn-backward {
+    margin-right: 10px;
+}
